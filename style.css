@@ -1,0 +1,12 @@
+html, body {
+    height:100%;
+    width:100%;
+}
+
+#originalLyrics {
+  width: 50%;
+}
+
+#changedLyrics {
+  width: 50%;
+}
