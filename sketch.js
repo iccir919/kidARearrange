@@ -17,8 +17,8 @@ function setup(){
   originalLyricsSpace.id('originalLyrics');
   changedLyricsSpace.id('changedLyrics');
 
-  originalLyricsSpace.position(0, 200);
-  changedLyricsSpace.position(windowWidth/2, 200);
+  originalLyricsSpace.position(0, 205);
+  changedLyricsSpace.position(windowWidth/2, 205);
 
 }
 
